@@ -1,0 +1,28 @@
+h1 {
+  color: rgb(90, 132, 228);
+  border: 5px solid rgb(161, 196, 219);
+  border-radius: 20px;
+  text-align: center;
+}
+
+h2 {
+  color: rgb(25, 55, 109);
+  text-align: center;
+}
+
+h3 {
+  color: rgb(25, 55, 109);
+  text-align: center;
+}
+
+.book {
+  background-color: rgb(181, 225, 234);
+  padding: 5px 5px 5px 5px;
+  border: 5px solid rgb(161, 196, 219);
+  margin: 10px 10px 10px 10px;
+  color: rgb(181, 225, 234);
+  font-size: size;
+  border-radius: 20px;
+}
+
+/*# sourceMappingURL=style.css.map */

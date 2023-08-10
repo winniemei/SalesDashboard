@@ -1,0 +1,22 @@
+.h1 {
+  color: green;
+}
+
+.nav {
+  color: red;
+  font-size: 30px;
+}
+
+.button {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+.button:active {
+  background-color: red;
+  color: yellow;
+}
+
+/*# sourceMappingURL=style.css.map */

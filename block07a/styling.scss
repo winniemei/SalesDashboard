@@ -1,0 +1,29 @@
+$primary-color: blue;
+$secondary-color: red;
+$TOPIC_COLOR:green;
+.h1{
+ color :$TOPIC_COLOR
+}
+.nav{
+color: $secondary-color;
+     font-size: 30px;
+}
+.button {
+   background-color: $primary-color;
+   color: white;
+   padding: 10px;
+  border: none;
+  cursor: pointer;
+
+
+&:active{
+    @if $primary-color == blue {
+       background-color: $secondary-color;
+          color: yellow;
+    } 
+   @else {      
+background-color: $primary-color;
+       color: green; 
+ }
+  }
+ }

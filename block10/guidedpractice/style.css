@@ -1,0 +1,20 @@
+body {
+background-color:rgb(170, 9, 149)!important;
+}
+
+p:hover {
+    background-color: orange;               
+ }
+
+li:nth-child(even) {
+    color: green;
+}
+
+section{
+    height:100;
+  } 
+  
+  heading{
+    height: calc(100% - 15px);
+  }
+                      

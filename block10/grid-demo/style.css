@@ -1,0 +1,12 @@
+.CSS-flex-container-Example{
+    display: flex;
+    background-color: #4D455D;
+  }
+  
+  .CSS-flex-container-Example > div {
+    background-color: #F16767;
+    margin: 10px;
+    padding: 5px;
+    font-size: 25px;
+  }
+  

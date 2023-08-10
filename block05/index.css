@@ -1,0 +1,19 @@
+
+h1 {
+    color: blue;
+    font-family: "Open Sans";
+    font-weight: 600;
+    padding: 50px 50px 50px 50px;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style:oblique 40deg;
+    max-width: 500px;
+    margin: auto;
+    background-color: rgb(154, 176, 127);
+  }
+
+.fit-picture {
+    width: 100px;
+}

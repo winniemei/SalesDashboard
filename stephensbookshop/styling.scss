@@ -1,0 +1,33 @@
+$primary-color: rgb(90, 132, 228);
+$secondary-color: rgb(25, 55, 109);
+$third-color:rgb(181, 225, 234);
+$size: 20;
+$border: 5px solid rgb(161, 196, 219);
+
+
+h1 {
+    color: $primary-color;
+    border: $border;
+    border-radius: 20px;
+    text-align: center;
+}
+
+h2 {
+    color: $secondary-color;
+    text-align: center
+}
+
+h3 {
+    color:$secondary-color;
+    text-align:center;
+}
+
+.book {
+    background-color: $third-color;
+    padding: 5px 5px 5px 5px;
+    border: $border;
+    margin: 10px 10px 10px 10px;
+    color: $third-color;
+    font-size: size;
+    border-radius: 20px;
+}
